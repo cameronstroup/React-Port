@@ -1,4 +1,5 @@
 import "./intro.css";
+import cameron from "./img/cameron.jpg";
 
 const Intro = () => {
   return (
@@ -12,12 +13,23 @@ const Intro = () => {
               <div className="intro-title-item">Web Developer</div>
               <div className="intro-title-item">Software Engineer</div>
               <div className="intro-title-item">UI/UX Designer</div>
-              <div className="intro-title-item">UI/Life Time Learner</div>
+              <div className="intro-title-item">Life Time Learner</div>
             </div>
+          </div>
+          <div className="intro-description">
+            MY NAME IS CAMERON STROUP AND I AM A FULLSTACK SOFWARE DEVELOPER AND
+            WEB DESIGNER STUDENT. IM NEW TO PROGRAMMING BUT IM IMPROVING
+            EVERYDAY AND LOVE TO DEVELOP CREATIVE AND INNOVATIVE APPLICATIONS. I
+            AM A QUICK LEARNER WITH A STRONG DESIRE TO CONTINUE EXPANDING MY
+            KNOWLEDGE. I AM SELF-MOTIVATED AND A TEAM PLAYER. LOOKING FOR MY
+            NEXT CHALLENGE!
           </div>
         </div>
       </div>
-      <div className="intro-right">Right </div>
+      <div className="intro-right">
+        <div className="pic-shape"></div>
+        <img src={cameron} alt="" className="intro-img" />
+      </div>
     </div>
   );
 };
