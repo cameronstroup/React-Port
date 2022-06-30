@@ -21,6 +21,39 @@
   margin: 3px;
 }
 
-.pimg {
+.p-img {
+  width: 100%;
+}
+
+.image__overlayP {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-family: "qicksand";
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+}
+/* creates hover effect  */
+.image__overlayP:hover {
+  opacity: 1;
+}
+/* Project title in overlay */
+.image__titleP {
+  font-size: 3.05em;
+  margin-top: 0.25em;
+}
+.image {
+  position: relative;
+  width: 30%;
+}
+.imgage__img {
+  display: flex;
   width: 100%;
 }
