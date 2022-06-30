@@ -1,0 +1,14 @@
+footer {
+  width: 100%;
+  padding: 10px 0;
+}
+
+i {
+  font-size: 35px;
+  padding: 15px;
+  color: #14c564;
+}
+
+i:hover {
+  color: #8f9eaa;
+}
