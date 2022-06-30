@@ -1,12 +1,12 @@
 import React from "react";
-import Nav from "./components/header/nav";
+import Navbar from "./components/navbar/Navbar";
 import Intro from "./components/intro/Intro";
 import ProjectList from "./components/intro/projectsList/projectList";
 
 export default function App() {
   return (
     <div>
-      <Nav />
+      <Navbar />
       <Intro />
       <ProjectList />
     </div>
