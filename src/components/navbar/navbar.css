@@ -3,7 +3,7 @@ body {
 }
 
 .nav {
-  background-color: bisque;
+  background-color: whitesmoke;
   color: blueviolet;
   display: flex;
   justify-content: space-between;

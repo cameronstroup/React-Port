@@ -1,14 +1,24 @@
 footer {
   width: 100%;
   padding: 10px 0;
+  background-color: whitesmoke;
 }
 
 i {
-  font-size: 35px;
+  font-size: 100px;
   padding: 15px;
   color: #14c564;
 }
 
 i:hover {
-  color: #8f9eaa;
+  color: #a2aa8f;
+}
+a {
+  color: rgb(102, 25, 169);
+  size: 100px;
+}
+.svg-inline--fa {
+  height: 2.5em;
+  margin: 10px;
+  justify-content: center;
 }
