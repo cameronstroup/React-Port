@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import { faPhone } from "@fortawesome/free-solid-svg-icons";
 import { validateEmail } from "../../utils/helpers";
 import "./contact.css";
 
@@ -42,6 +42,8 @@ function ContactForm() {
     <section className="contactMe">
       <h1 data-testid="h1tag">Contact Me</h1>
       <form id="contact-form" onSubmit={handleSubmit}>
+        <div> 512-964-4404</div>
+        <div> cameron.d.stroup@gmail.com</div>
         <div>
           <label htmlFor="name">Name:</label>
           <input

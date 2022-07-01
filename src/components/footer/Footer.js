@@ -15,7 +15,7 @@ const Footer = () => {
         className="Icon"
         target="_blank"
         rel="noopener noreferrer"
-        href="linkedin.com/in/cameron-stroup-10a71b91"
+        href="https://linkedin.com/in/cameron-stroup-10a71b91"
       >
         <FontAwesomeIcon icon={faLinkedin} />
       </a>
@@ -29,14 +29,14 @@ const Footer = () => {
       <a
         target="_blank"
         rel="noopener noreferrer"
-        href="mailto:cameron.d.stroup@gmail.com"
+        href="https://twitter.com/Cslake12345"
       >
         <FontAwesomeIcon icon={faTwitter} />
       </a>
       <a
         target="_blank"
         rel="noopener noreferrer"
-        href="https://twitter.com/Cslake12345"
+        href="mailto:cameron.d.stroup@gmail.com"
       >
         <FontAwesomeIcon icon={faMailBulk} />
       </a>
