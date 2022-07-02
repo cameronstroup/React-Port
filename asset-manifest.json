@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/cameronstroup/React-Port/static/css/main.df292771.css",
-    "main.js": "/cameronstroup/React-Port/static/js/main.15f3da86.js",
-    "static/media/170349367-874aa25d-e0a4-4fdb-8f6b-f2de6dffe32f.png": "/cameronstroup/React-Port/static/media/170349367-874aa25d-e0a4-4fdb-8f6b-f2de6dffe32f.d4c41036f3c5bbdddcd2.png",
-    "static/media/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.png": "/cameronstroup/React-Port/static/media/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.e99a1b72a061a523b218.png",
-    "static/media/Resume.pdf": "/cameronstroup/React-Port/static/media/Resume.4361d47e161373012287.pdf",
-    "static/media/cameron.jpg": "/cameronstroup/React-Port/static/media/cameron.a45e7bb8b40966e82bec.jpg",
-    "static/media/voyager space.JPG": "/cameronstroup/React-Port/static/media/voyager space.ed86dd1d11a29ff965a6.JPG",
-    "static/media/156971519-6c3ed119-5403-4d71-9c9d-48c5b3b3da87.jpg": "/cameronstroup/React-Port/static/media/156971519-6c3ed119-5403-4d71-9c9d-48c5b3b3da87.c33425831f863456924d.jpg",
-    "static/media/weatherApp.png": "/cameronstroup/React-Port/static/media/weatherApp.05e91a03ab2b736263f1.png",
-    "static/media/noteTaker.png": "/cameronstroup/React-Port/static/media/noteTaker.307f66fc0345ce9cb664.png",
-    "index.html": "/cameronstroup/React-Port/index.html",
-    "main.df292771.css.map": "/cameronstroup/React-Port/static/css/main.df292771.css.map",
-    "main.15f3da86.js.map": "/cameronstroup/React-Port/static/js/main.15f3da86.js.map"
+    "main.css": "/React-Port/static/css/main.df292771.css",
+    "main.js": "/React-Port/static/js/main.e17663df.js",
+    "static/media/170349367-874aa25d-e0a4-4fdb-8f6b-f2de6dffe32f.png": "/React-Port/static/media/170349367-874aa25d-e0a4-4fdb-8f6b-f2de6dffe32f.d4c41036f3c5bbdddcd2.png",
+    "static/media/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.png": "/React-Port/static/media/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.e99a1b72a061a523b218.png",
+    "static/media/Resume.pdf": "/React-Port/static/media/Resume.4361d47e161373012287.pdf",
+    "static/media/cameron.jpg": "/React-Port/static/media/cameron.a45e7bb8b40966e82bec.jpg",
+    "static/media/voyager space.JPG": "/React-Port/static/media/voyager space.ed86dd1d11a29ff965a6.JPG",
+    "static/media/156971519-6c3ed119-5403-4d71-9c9d-48c5b3b3da87.jpg": "/React-Port/static/media/156971519-6c3ed119-5403-4d71-9c9d-48c5b3b3da87.c33425831f863456924d.jpg",
+    "static/media/weatherApp.png": "/React-Port/static/media/weatherApp.05e91a03ab2b736263f1.png",
+    "static/media/noteTaker.png": "/React-Port/static/media/noteTaker.307f66fc0345ce9cb664.png",
+    "index.html": "/React-Port/index.html",
+    "main.df292771.css.map": "/React-Port/static/css/main.df292771.css.map",
+    "main.e17663df.js.map": "/React-Port/static/js/main.e17663df.js.map"
   },
   "entrypoints": [
     "static/css/main.df292771.css",
-    "static/js/main.15f3da86.js"
+    "static/js/main.e17663df.js"
   ]
 }
