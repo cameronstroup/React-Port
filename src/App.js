@@ -14,7 +14,7 @@ export default function App() {
       <Navbar />
 
       <Routes>
-        <Route path="/" element={<Intro />} />
+        <Route path="/React-Port" element={<Intro />} />
         <Route path="/aboutMe" element={<Intro />} />
         <Route path="/projects" element={<ProjectList />} />
         <Route path="/resume" element={<Resume />} />
