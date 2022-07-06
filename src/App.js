@@ -14,6 +14,7 @@ export default function App() {
       <Navbar />
       <Routes>
         <Route path="/aboutMe" element={<Intro />} />
+        <Route path="/react-gh-pages" element={<Intro />} />
         <Route path="/projects" element={<ProjectList />} />
         <Route path="/resume" element={<Resume />} />
         <Route path="/contactMe" element={<ContactForm />} />

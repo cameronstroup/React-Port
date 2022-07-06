@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { faPhone } from "@fortawesome/free-solid-svg-icons";
 import { validateEmail } from "../../utils/helpers";
 import "./contact.css";
 

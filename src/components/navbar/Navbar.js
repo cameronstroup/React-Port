@@ -2,7 +2,7 @@ import "./navbar.css";
 export default function Navbar() {
   return (
     <nav className="nav">
-      <a href="" className="site-title">
+      <a href="/react-gh-pages" className="site-title">
         {" "}
         Cameron Stroup
       </a>
