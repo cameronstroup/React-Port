@@ -1,25 +1,24 @@
 import "./navbar.css";
+import { Link } from "react-router-dom";
 export default function Navbar() {
   return (
-    <nav className="nav">
-      <a href="/react-gh-pages" className="site-title">
-        {" "}
-        Cameron Stroup
-      </a>
+    <div>
+      <div className="site-title">Cameron Stroup</div>
       <ul>
         <li>
-          <a href="/aboutMe">About Me</a>
+          <Link to="/aboutMe">About Me</Link>
+        </li>
+
+        <li>
+          <Link to="/projects">Projects</Link>
         </li>
         <li>
-          <a href="/projects">Projects</a>
+          <Link to="/contactMe">Contact Me</Link>
         </li>
         <li>
-          <a href="/contactMe"> Contact Me</a>
+          <Link to="/resume">Resume</Link>
         </li>
-        <li>
-          <a href="/resume"> Resume</a>
-        </li>
-      </ul>{" "}
-    </nav>
+      </ul>
+    </div>
   );
 }
