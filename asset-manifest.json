@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.df292771.css",
-    "main.js": "/react-gh-pages/static/js/main.a6ddc42a.js",
+    "main.js": "/react-gh-pages/static/js/main.cff99bb0.js",
     "static/media/170349367-874aa25d-e0a4-4fdb-8f6b-f2de6dffe32f.png": "/react-gh-pages/static/media/170349367-874aa25d-e0a4-4fdb-8f6b-f2de6dffe32f.d4c41036f3c5bbdddcd2.png",
     "static/media/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.png": "/react-gh-pages/static/media/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.e99a1b72a061a523b218.png",
     "static/media/Resume.pdf": "/react-gh-pages/static/media/Resume.4361d47e161373012287.pdf",
@@ -12,10 +12,10 @@
     "static/media/noteTaker.png": "/react-gh-pages/static/media/noteTaker.307f66fc0345ce9cb664.png",
     "index.html": "/react-gh-pages/index.html",
     "main.df292771.css.map": "/react-gh-pages/static/css/main.df292771.css.map",
-    "main.a6ddc42a.js.map": "/react-gh-pages/static/js/main.a6ddc42a.js.map"
+    "main.cff99bb0.js.map": "/react-gh-pages/static/js/main.cff99bb0.js.map"
   },
   "entrypoints": [
     "static/css/main.df292771.css",
-    "static/js/main.a6ddc42a.js"
+    "static/js/main.cff99bb0.js"
   ]
 }
