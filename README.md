@@ -7,8 +7,7 @@
 [Technology Used](#technology-used) <br/>
 [Links](#links) <br/>
 [Screenshots](#screenshots) <br/>
-[Questions](#questions) <br/>
-[License](#license) <br/>
+
 
 ## Description
 I built the app as home for all the things I have built over my coding bootcamp at the University of Texas. It was built using node and React and will be sent to potenial employers to show my skills.
