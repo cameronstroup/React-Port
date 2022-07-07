@@ -11,18 +11,15 @@
 [License](#license) <br/>
 
 ## Description
-This was originally a homework assignment for the University of Toronto SCS Coding Boot Camp. This is my portfolio created using React. React is a popular JavaScript library for building user interfaces. This application is deployed on Heroku.
+I built the app as home for all the things I have built over my coding bootcamp at the University of Texas. It was built using node and React and will be sent to potenial employers to show my skills.
 
 ## Key Features
-- This application is contained within a single-page
-- When a user clicks on a navigation item that section is presented without the page reloading and the navigation item is highlighted
-- Application has a mobile friendly, responsive, and clean design including a collapsing navigation bar
-- Portfolio projects are displayed through the use of a project component that is reused as the application maps through an array of projects
+- It is built all on a single page
+- The page does not have to reload when you click on a new page
+- This app is built to be responisive and mobile friendly 
+- Contains my projects I built over the last 6 months and is built to add more projects with ease
 - The application includes several React components such as a header, navigation bar, project card and footer
-- The styling is mainly managed through CSS files for each component and some Bootstrap
-- Contact page form (currently under revision) ensures the user enters a valid email address with the help of a regular expression
-- Contact page form (currently under revision) notifies the user that an input field is required if they enter and then leave it blank
-- The styling of items in the footer change on mouse over by the user
+
 
 ## Technology Used
 - React
@@ -31,3 +28,5 @@ This was originally a homework assignment for the University of Toronto SCS Codi
 - NPM packages of note: react, react-router-dom
 
 ## Links
+https://cameronstroup.github.io/React-Port/
+https://github.com/cameronstroup
