@@ -48,8 +48,8 @@
 }
 /* Project title in overlay */
 .image__titleP {
-  font-size: 1.75em;
-  margin-top: 0.25em;
+  font-size: xx-small;
+  margin-top: 1em;
 }
 .image {
   position: relative;
@@ -60,5 +60,5 @@
   width: 100%;
 }
 .image__descriptionP {
-  font-size: 0.6 rem;
+  font-size: xx-small;
 }
