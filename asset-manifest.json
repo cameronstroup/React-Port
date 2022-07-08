@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Port/static/css/main.eb40962b.css",
+    "main.css": "/React-Port/static/css/main.7d38f5d0.css",
     "main.js": "/React-Port/static/js/main.d258b2cb.js",
     "static/media/170349367-874aa25d-e0a4-4fdb-8f6b-f2de6dffe32f.png": "/React-Port/static/media/170349367-874aa25d-e0a4-4fdb-8f6b-f2de6dffe32f.d4c41036f3c5bbdddcd2.png",
     "static/media/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.png": "/React-Port/static/media/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.e99a1b72a061a523b218.png",
@@ -11,11 +11,11 @@
     "static/media/weatherApp.png": "/React-Port/static/media/weatherApp.05e91a03ab2b736263f1.png",
     "static/media/noteTaker.png": "/React-Port/static/media/noteTaker.307f66fc0345ce9cb664.png",
     "index.html": "/React-Port/index.html",
-    "main.eb40962b.css.map": "/React-Port/static/css/main.eb40962b.css.map",
+    "main.7d38f5d0.css.map": "/React-Port/static/css/main.7d38f5d0.css.map",
     "main.d258b2cb.js.map": "/React-Port/static/js/main.d258b2cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb40962b.css",
+    "static/css/main.7d38f5d0.css",
     "static/js/main.d258b2cb.js"
   ]
 }
