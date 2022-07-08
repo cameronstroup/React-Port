@@ -3,6 +3,7 @@
   height: 100vh;
   background-color: white;
   height: calc(100vh- 175px);
+  overflow-y: scroll;
 }
 
 .intro-left {
