@@ -39,7 +39,7 @@ export const projects = [
     link: "https://cameronstroup.github.io/coding-quiz/",
     github: "https://github.com/cameronstroup/coding-quiz",
     descripiton:
-      "You start with 60 seconds and will have a chance to answer four questions. It is best to move to the next question if you do not know the answer because you will be deducted points for missed answers. A quiz about Javascript built with Javascipt",
+      "You start with 60 seconds and will have a chance to answer four questions. It is best to move to the next question if you do not know the answer because you will be deducted points for missed answers. A quiz about Javascript built with Javascipt ",
     title: "JavaScript Quiz",
   },
   {
@@ -48,7 +48,7 @@ export const projects = [
     link: "https://cameronstroup.github.io/weather-tracker/",
     github: "https://github.com/cameronstroup/weather-tracker",
     descripiton:
-      "This is a web based app that I buitl to show the user the weather of his/her desired city.Enter in your city of choice and select search to view the current weather, temperature, humidity, wind speed, and UV Index for that city at the current time. Upon the search, the dashobard will also display the weather, temperature and hummidity forecast for the next five(5) days.The uv index will be either green, yellow, or red depending of the intensitiy of the current index. Previous searches are saved in localStorage",
+      "This is a web based app that I built to show the user the weather of his/her desired city.Enter in your city of choice and select search to view the current weather, temperature, humidity, wind speed, and UV Index for that city at the current time. Upon the search, the dashobard will also display the weather, temperature and hummidity forecast for the next five(5) days.The uv index will be either green, yellow, or red depending of the intensitiy of the current index. Previous searches are saved in localStorage",
     title: "Weather Dashboard",
   },
   {
