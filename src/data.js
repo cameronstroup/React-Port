@@ -3,7 +3,7 @@ import budget from "./components/intro/img/170349367-874aa25d-e0a4-4fdb-8f6b-f2d
 import database from "./components/intro/img/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.png";
 import quiz from "./components/intro/img/156971519-6c3ed119-5403-4d71-9c9d-48c5b3b3da87.jpg";
 import weather from "./components/intro/img/weatherApp.png";
-import noteTaker from "./components/intro/img/noteTaker.png";
+import fish from "./components/intro/img/babelFish.JPG";
 
 export const projects = [
   {
@@ -53,11 +53,11 @@ export const projects = [
   },
   {
     id: 6,
-    img: noteTaker,
-    link: "https://cryptic-ocean-09886.herokuapp.com/",
-    github: "https://github.com/cameronstroup/note-taker",
+    img: fish,
+    link: "https://babelfishapp.herokuapp.com",
+    github: "https://github.com/jrj-sys/BabelFish",
     descripiton:
-      "I buitl this app as a tool for writing and stroing notes. Notes are saved to the server and stored and can be retiried at anytime. This was built using express for the server.Built With HTML,CSS,Javascript,Node.js,Express.js",
-    title: "Note Taker",
+      "BabelFish is an interactive multi-person chat app with built in live translation  It is created using the MERN stack (MongoDB, Express.js, React, and Node.js). It also includes user authentication and authorization with JWT (JSON Web Tokens), socket.io for websockets, and utilizes Apollo Client for GraphQL.",
+    title: "Babel Fish",
   },
 ];
