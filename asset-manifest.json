@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Port/static/css/main.539e50e8.css",
-    "main.js": "/React-Port/static/js/main.9573b115.js",
+    "main.js": "/React-Port/static/js/main.b0a7cf52.js",
     "static/media/170349367-874aa25d-e0a4-4fdb-8f6b-f2de6dffe32f.png": "/React-Port/static/media/170349367-874aa25d-e0a4-4fdb-8f6b-f2de6dffe32f.d4c41036f3c5bbdddcd2.png",
     "static/media/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.png": "/React-Port/static/media/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.e99a1b72a061a523b218.png",
     "static/media/Resume.pdf": "/React-Port/static/media/Resume.4361d47e161373012287.pdf",
@@ -9,13 +9,13 @@
     "static/media/voyager space.JPG": "/React-Port/static/media/voyager space.ed86dd1d11a29ff965a6.JPG",
     "static/media/156971519-6c3ed119-5403-4d71-9c9d-48c5b3b3da87.jpg": "/React-Port/static/media/156971519-6c3ed119-5403-4d71-9c9d-48c5b3b3da87.c33425831f863456924d.jpg",
     "static/media/weatherApp.png": "/React-Port/static/media/weatherApp.05e91a03ab2b736263f1.png",
-    "static/media/babelFish.JPG": "/React-Port/static/media/babelFish.a6329e3eda504be3db72.JPG",
+    "static/media/babelfish.JPG": "/React-Port/static/media/babelfish.4ec91a66e6f5703157aa.JPG",
     "index.html": "/React-Port/index.html",
     "main.539e50e8.css.map": "/React-Port/static/css/main.539e50e8.css.map",
-    "main.9573b115.js.map": "/React-Port/static/js/main.9573b115.js.map"
+    "main.b0a7cf52.js.map": "/React-Port/static/js/main.b0a7cf52.js.map"
   },
   "entrypoints": [
     "static/css/main.539e50e8.css",
-    "static/js/main.9573b115.js"
+    "static/js/main.b0a7cf52.js"
   ]
 }
