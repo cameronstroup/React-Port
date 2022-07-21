@@ -3,7 +3,7 @@ import budget from "./components/intro/img/170349367-874aa25d-e0a4-4fdb-8f6b-f2d
 import database from "./components/intro/img/175085526-e26d0221-43e5-43a7-947f-dcb1d06c0ddd.png";
 import quiz from "./components/intro/img/156971519-6c3ed119-5403-4d71-9c9d-48c5b3b3da87.jpg";
 import weather from "./components/intro/img/weatherApp.png";
-import fish from "./components/intro/img/babelFish.JPG";
+import fish from "./components/intro/img/babelfish.JPG";
 
 export const projects = [
   {
